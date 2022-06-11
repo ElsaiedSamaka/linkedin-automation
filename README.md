@@ -55,9 +55,8 @@ on your root folder create output.csv file to avoid errors
 ```
 ## Notes
 python3 easyapplybot.py
-```
 python easyapplybot.py
 
 ```
 
-https://www.linkedin.com/in/elsaied-samaka-513a0518b
+```
