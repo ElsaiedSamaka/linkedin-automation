@@ -1,0 +1,34 @@
+username: 
+password: 
+
+positions:
+- Javascript developer
+- nodejs developer
+- Full Stack mern 
+- React developer
+- backend developer
+- frontend developer
+
+
+locations:
+- Egypt 
+
+# --------- Optional Parameters -------
+# uploads:
+#  Resume: # PATH TO Resume 
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+# blacklist:
+# - # Company names you want to ignore
+
+#blackListTitles:
+- Data science
+- Vuejs 
+- larvel 
+- php 
+- angular
